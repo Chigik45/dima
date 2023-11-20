@@ -1,0 +1,24 @@
+{
+    "name": "dima",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "",
+        "test": "",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chigik45/dima.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Chigik45/dima/issues"
+    },
+    "homepage": "https://github.com/Chigik45/dima#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "axios": ""
+    }
+}
